@@ -21,17 +21,18 @@ gosling:
   - not ryan reynolds
 ---
 
+
+
+
 ![](assets/img/ryan-v-ryan.jpg)  
 
-### Lorem Ipsum
 
-Lorem ipsum dolor sit amet....
+## Lorem Ipsum
 
-# List of links in the navigation bar
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - Getting Started: "getstarted"                         
-  Table Demo: "table-demo"              # ADD THIS LINK
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+<a href="https://github.com/LamiaaZrara/LamiaaZRARA.github.io/blob/master/_layouts/liquid-table.html" target = "_blank"> 
+          <button onclick="href=''"> See Page Layout <i class="fa fa-github 2x" id="github_icon"></i> </button>
+</a>
+
+<hr>
