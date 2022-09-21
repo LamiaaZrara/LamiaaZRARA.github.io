@@ -95,13 +95,9 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 ### 4. Congratulations! You have a website!
 
 
-<style>
-
-.gs-section-01 h1 { 
-     color: red}
-
- .gs-section-01 p {
-     font-size: 30px;
-  }
-
+<style> 
+.gs-section-01 h3 { color: red } 
+.gs-section-01 p { font-size: 30px; } 
+.gs-section-02 h3 { color: #91e916 } 
+.gs-section-01 p { font-size: 10px; }
 </style>
