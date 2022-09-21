@@ -99,12 +99,12 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 <style>
 
-.gs-section-01 h1 { 
+ .gs-section-01 h1 { 
      color: #2F4F4F }
 
-.gs-section-01 p {
+ .gs-section-01 p {
      font-size: 50px;
-}
+  }
 
 </style>
 
