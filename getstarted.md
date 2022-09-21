@@ -102,5 +102,6 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 .gs-section-02 p { font-size: 10px; }
 .gs-section-03 h3 { color: #008080 } 
 .gs-section-03 p { font-size: 20px; }
-.gs-section-04 h3 { color: #D2B48C; } 
+.gs-section-04 h3 { color: #D2B48C } 
+.gs-section-04 p { font-size: 20px; }
 </style>
