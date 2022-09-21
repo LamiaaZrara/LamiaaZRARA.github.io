@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Get to know more about me:
+subtitle: Get to know more about me
 ---
 
 My name is Lamiaa Zrara. I have the following qualities:
