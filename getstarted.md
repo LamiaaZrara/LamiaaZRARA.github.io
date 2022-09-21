@@ -96,10 +96,11 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 
 <style> 
-.gs-section-01 h3 { color: #D2B48C } 
+.gs-section-01 h3 { color: #800000 } 
 .gs-section-01 p { font-size: 30px; } 
 .gs-section-02 h3 { color: #BC8F8F } 
 .gs-section-02 p { font-size: 10px; }
 .gs-section-03 h3 { color: #008080 } 
-.gs-section-03 p { font-size: 10px; }
+.gs-section-03 p { font-size: 20px; }
+.gs-section-04 h3 { color: #D2B48C } 
 </style>
